@@ -1,0 +1,18 @@
+{
+    "name": "offworks/logos",
+    "description": "PHP package for famous quotes",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eimihar",
+            "email": "newrehmi@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Offworks\\Logos\\": "src/"
+        }
+    }
+}
